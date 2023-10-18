@@ -1,7 +1,10 @@
 ## Izveidot number guessing spēli ar python programmēšanas valodu
 
-## Saturs
-## 1. Aprakstīt spēli
+## Dokumenta saturs
+
+## 1. Spēles apraksts
+Interesanta spēle kas atīsta loģiku.
+
 ## 2. Spēles loģika
 
 Dators nejauši ģenere vienu skaitli no 1 līdz 100, talāk piedāvā spelētājam uzminēt to skaitli.
